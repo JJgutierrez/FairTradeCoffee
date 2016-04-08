@@ -52,4 +52,3 @@ C:\Users\Juan\Documents\class\OxigenClass\JuanCoffee\JuanCoffee\bin\Microsoft.Ow
 C:\Users\Juan\Documents\class\OxigenClass\JuanCoffee\JuanCoffee\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\Juan\Documents\class\OxigenClass\JuanCoffee\JuanCoffee\obj\Debug\JuanCoffee.dll
 C:\Users\Juan\Documents\class\OxigenClass\JuanCoffee\JuanCoffee\obj\Debug\JuanCoffee.pdb
-C:\Users\Juan\Documents\class\OxigenClass\JuanCoffee\JuanCoffee\obj\Debug\JuanCoffee.csprojResolveAssemblyReference.cache
